@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anc1en7
 - 👀 I’m interested in Coding/Programming/Fun Projects
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
