@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @anc1en7
-- 👀 I’m interested in Coding/Programming/Fun Projects
-- 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Harshit Sinha 👋
 
-<!---
-anc1en7/anc1en7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Builder of AI tools and developer utilities. I care about honest benchmarks, CLI ergonomics, and shipping things people can actually fork and own.
+
+## 🔭 What I'm working on
+
+- **[ragbench](https://github.com/anc1en7/ragbench)** — config-driven benchmarking for RAG pipelines: human-verified gold sets, chunker/embedder/retrieval sweeps, bootstrap CIs
+- **[ai-job-search](https://github.com/anc1en7/ai-job-search)** — local-first AI job application framework (evaluate postings, tailor CVs, prep interviews)
+
+## 🛠 Tech I reach for
+
+```
+Python · C++ · FastAPI · LangGraph · pgvector · Qdrant
+Postgres · Docker · Git · Linux
+```
+
+## 📈 Stats
+
+![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=anc1en7&show_icons=true&hide_border=true&border_radius=16)
+
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anc1en7&layout=compact&hide_border=true&border_radius=16)
+
+---
+
+💬 Always open to collaborating on AI tooling, evaluation harnesses, and practical CLI projects.
