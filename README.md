@@ -16,11 +16,11 @@ Postgres · Docker · Git · Linux
 
 ## 📈 Stats
 
-![Harshit's GitHub stats](https://github-readme-languages.vercel.app/api?username=anc1en7&hide_border=true&border_radius=16)
+![Harshit's GitHub stats](https://github-readme-languages.vercel.app/api?username=anc1en7&hide_border=true&border_radius=16&theme=transparent)
 
-![Top langs](https://github-readme-languages.vercel.app/api/top-langs?username=anc1en7&hide_border=true&border_radius=16)
+![Top langs](https://github-readme-languages.vercel.app/api/top-langs?username=anc1en7&hide_border=true&border_radius=16&theme=transparent)
 
-![Profile views](https://komarev.com/ghpvc/?username=anc1en7&color=brightgreen&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=anc1en7&color=blueviolet&style=for-the-badge)
 
 ---
 
